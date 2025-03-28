@@ -69,8 +69,3 @@ Feel free to contribute by improving the checks, UI, or adding more security fea
 📜 License
 
 This project is open-source and free to use!
-
-
----
-
-Let me know if you want any modifications! 🚀
