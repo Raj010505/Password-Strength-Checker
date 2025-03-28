@@ -3,14 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Password Strength Checker 🔒</title>
-    <link rel="stylesheet" href="styles.css">
+    <title>Password Strength Checker</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
     <div class="container">
-        <h2>🔐 Password Strength Checker</h2>
-        <input type="password" id="password" placeholder="Enter your password..." oninput="checkPassword()">
+        <img src="image.png" alt="Password Checker Logo" class="logo">
+        <h2>Password Strength Checker</h2>
+        <input type="password" id="password" placeholder="Enter your password" oninput="checkPassword()">
         <div id="strength"></div>
         <ul id="suggestions"></ul>
     </div>
